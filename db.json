@@ -6,25 +6,25 @@
       "rank": "Chapter Master",
       "chapter": "Absolvers",
       "chapterId": "21",
-      "company": "0",
-      "squad": "0",
-      "veterancy": "true",
-      "specialisation": "Unknow",
-      "primaris": "false",
-      "alive": "true"
+      "company": 0,
+      "squad": 0,
+      "veterancy": true,
+      "specialisation": "Unknown",
+      "primaris": false,
+      "alive": true
     },
     {
       "id": "2",
-      "firstName":"Syres",
+      "firstName": "Syres",
       "rank": "Captain",
       "chapter": "Absolvers",
       "chapterId": "21",
-      "company": "0",
-      "squad": "0",
-      "veterancy": "true",
-      "specialisation": "Unknow",
-      "primaris": "false",
-      "alive": "true"
+      "company": 0,
+      "squad": 0,
+      "veterancy": true,
+      "specialisation": "Unknown",
+      "primaris": false,
+      "alive": true
     },
     {
       "id": "3",
@@ -32,12 +32,12 @@
       "rank": "Chaplain",
       "chapter": "Absolvers",
       "chapterId": "21",
-      "company": "0",
-      "squad": "0",
-      "veterancy": "true",
-      "specialisation": "Unknow",
-      "primaris": "false",
-      "alive": "true"
+      "company": 0,
+      "squad": 0,
+      "veterancy": true,
+      "specialisation": "Unknown",
+      "primaris": false,
+      "alive": true
     },
     {
       "id": "4",
@@ -45,12 +45,12 @@
       "chapter": "Angels Encarmine",
       "chapterId": "25",
       "rank": "Battle-brother",
-      "company": "7",
-      "squad": "14",
-      "veterancy": "false",
-      "specialisation": "Unknow",
-      "primaris": "true",
-      "alive": "true"
+      "company": 7,
+      "squad": 14,
+      "veterancy": false,
+      "specialisation": "Unknown",
+      "primaris": true,
+      "alive": true
     },
     {
       "id": "5",
@@ -58,12 +58,12 @@
       "chapter": "Angels Encarmine",
       "chapterId": "25",
       "rank": "Castellan",
-      "company": "0",
-      "squad": "0",
-      "veterancy": "true",
-      "specialisation": "Unknow",
-      "primaris": "false",
-      "alive": "false"
+      "company": 0,
+      "squad": 0,
+      "veterancy": true,
+      "specialisation": "Unknown",
+      "primaris": false,
+      "alive": false
     },
     {
       "id": "6",
@@ -71,12 +71,12 @@
       "chapter": "Angels Encarmine",
       "chapterId": "25",
       "rank": "Castellan",
-      "company": "0",
-      "squad": "0",
-      "veterancy": "true",
-      "specialisation": "Unknow",
-      "primaris": "false",
-      "alive": "false"
+      "company": 0,
+      "squad": 0,
+      "veterancy": true,
+      "specialisation": "Unknown",
+      "primaris": false,
+      "alive": false
     },
     {
       "id": "7",
@@ -84,12 +84,12 @@
       "chapter": "Angels Encarmine",
       "chapterId": "25",
       "rank": "Castellan",
-      "company": "0",
-      "squad": "0",
-      "veterancy": "true",
-      "specialisation": "Unknow",
-      "primaris": "false",
-      "alive": "true"
+      "company": 0,
+      "squad": 0,
+      "veterancy": true,
+      "specialisation": "Unknown",
+      "primaris": false,
+      "alive": true
     },
     {
       "id": "8",
@@ -97,12 +97,12 @@
       "chapter": "Angels Encarmine",
       "chapterId": "25",
       "rank": "Captain",
-      "company": "1",
-      "squad": "0",
-      "veterancy": "true",
-      "specialisation": "Unknow",
-      "primaris": "false",
-      "alive": "true"
+      "company": 0,
+      "squad": 0,
+      "veterancy": true,
+      "specialisation": "Unknown",
+      "primaris": false,
+      "alive": true
     },
     {
       "id": "9",
@@ -110,12 +110,12 @@
       "chapter": "Angels Encarmine",
       "chapterId": "25",
       "rank": "Dreadnought",
-      "company": "",
-      "squad": "",
-      "veterancy": "true",
-      "specialisation": "Unknow",
-      "primaris": "false",
-      "alive": "true"
+      "company": 0,
+      "squad": 0,
+      "veterancy": true,
+      "specialisation": "Unknown",
+      "primaris": false,
+      "alive": true
     },
     {
       "id": "10",
@@ -123,12 +123,12 @@
       "chapter": "Angels Encarmine",
       "chapterId": "25",
       "rank": "Furioso Dreadnought",
-      "company": "0",
-      "squad": "0",
-      "veterancy": "true",
+      "company": 0,
+      "squad": 0,
+      "veterancy": true,
       "specialisation": "Librarian",
-      "primaris": "false",
-      "alive": "true"
+      "primaris": false,
+      "alive": true
     },
     {
       "id": "11",
@@ -136,12 +136,12 @@
       "chapter": "Angels Eradicant",
       "chapterId": "26",
       "rank": "Chapter Master",
-      "company": "0",
-      "squad": "0",
-      "veterancy": "true",
-      "specialisation": "Unknown",
-      "primaris": "false",
-      "alive": "false"
+      "company": 0,
+      "squad": 0,
+      "veterancy": true,
+      "specialisation": "Unknownn",
+      "primaris": false,
+      "alive": false
     },
     {
       "id": "12",
@@ -149,12 +149,12 @@
       "chapter": "Astral Fists",
       "chapterId": "27",
       "rank": "Chapter Master",
-      "company": "0",
-      "squad": "0",
-      "veterancy": "true",
-      "specialisation": "Unknown",
-      "primaris": "false",
-      "alive": "false"
+      "company": 0,
+      "squad": 0,
+      "veterancy": true,
+      "specialisation": "Unknownn",
+      "primaris": false,
+      "alive": false
     },
     {
       "id": "13",
@@ -162,115 +162,135 @@
       "chapter": "Marines Mordant",
       "chapterId": "28",
       "rank": "Chapter Master",
-      "company": "0",
-      "squad": "0",
-      "veterancy": "true",
-      "specialisation": "Unknown",
-      "primaris": "false",
-      "alive": "false"
+      "company": 0,
+      "squad": 0,
+      "veterancy": true,
+      "specialisation": "Unknownn",
+      "primaris": false,
+      "alive": false
     }
   ],
-
   "chapters": [
-    { 
-      "id": "13" ,
-      "originalName": "Ultramarines",
+    {
+      "id": "1",
+      "originalName": "The First",
+      "currentName": "Dark Angels",
+      "warcry": "Repent! For tomorrow you die",
+      "founding": "First Founding",
+      "succesorsOf": "N/A",
+      "successorChapters": "Unknown",
+      "homeworld": "Caliban",
+      "allegiance": "Imperium of Man"
+    },
+    {
+      "id": "13",
+      "originalName": "War-born",
       "currentName": "Ultramarines",
       "warcry": "Courage and Honour",
       "founding": "First Founding",
       "succesorsOf": "N/A",
-      "successorChapters": "Unknow",
+      "successorChapters": "Unknown",
       "homeworld": "Macragge",
       "allegiance": "Imperium of Man"
     },
-    { 
-      "id": "21" ,
-      "originalName": "Absolvers",
-      "currentName": "Absolvers",
-      "warcry": "Unknow",
-      "founding": "Unknow",
-      "succesorsOf": "Unknow",
-      "successorChapters": "Unknow",
-      "homeworld": "Unknow",
-      "allegiance": "Imperium of Man"
-    },
-    { 
-      "id": "22" ,
-      "originalName": "Accipiters",
-      "currentName": "Accipiters",
-      "warcry": "Unknow",
-      "founding": "Unknow",
-      "succesorsOf": "Unknow",
-      "successorChapters": "Unknow",
-      "homeworld": "Unknow",
-      "allegiance": "Imperium of Man"
-    },
-    { 
-      "id": "23" ,
-      "originalName": "Altar Bretheren",
-      "currentName": "Iconoclasts",
-      "warcry": "Unknow",
-      "founding": "Unknow",
-      "succesorsOf": "Unknow",
-      "successorChapters": "Unknow",
-      "homeworld": "Unknow",
+    {
+      "id": "20",
+      "originalName": "Ghost Legion",
+      "currentName": "Alpha Legion",
+      "warcry": "Hydra Dominatus",
+      "founding": "First Founding",
+      "succesorsOf": "N/A",
+      "successorChapters": "Unknown",
+      "homeworld": "Unknown",
       "allegiance": "Chaos Undivided"
     },
-    { 
-      "id": "24" ,
+    {
+      "id": "21",
+      "originalName": "Absolvers",
+      "currentName": "Absolvers",
+      "warcry": "Unknown",
+      "founding": "Unknown",
+      "succesorsOf": "Unknown",
+      "successorChapters": "Unknown",
+      "homeworld": "Unknown",
+      "allegiance": "Imperium of Man"
+    },
+    {
+      "id": "22",
+      "originalName": "Accipiters",
+      "currentName": "Accipiters",
+      "warcry": "Unknown",
+      "founding": "Unknown",
+      "succesorsOf": "Unknown",
+      "successorChapters": "Unknown",
+      "homeworld": "Unknown",
+      "allegiance": "Imperium of Man"
+    },
+    {
+      "id": "23",
+      "originalName": "Altar Bretheren",
+      "currentName": "Iconoclasts",
+      "warcry": "Unknown",
+      "founding": "Unknown",
+      "succesorsOf": "Unknown",
+      "successorChapters": "Unknown",
+      "homeworld": "Unknown",
+      "allegiance": "Chaos Undivided"
+    },
+    {
+      "id": "24",
       "originalName": "Angel Guard",
       "currentName": "Angel Guard",
-      "warcry": "Unknow",
-      "founding": "Unknow",
-      "succesorsOf": "Unknow",
-      "successorChapters": "Unknow",
-      "homeworld": "Unknow",
+      "warcry": "Unknown",
+      "founding": "Unknown",
+      "succesorsOf": "Unknown",
+      "successorChapters": "Unknown",
+      "homeworld": "Unknown",
       "allegiance": "Imperium of Man"
     },
-    { 
-      "id": "25" ,
+    {
+      "id": "25",
       "originalName": "Angels Encarmine",
       "currentName": "Angels Encarmine",
-      "warcry": "Unknow",
+      "warcry": "Unknown",
       "founding": "Secound Founding",
       "succesorsOf": "Blood Angels",
-      "successorChapters": "Unknow",
-      "homeworld": "Unknow",
+      "successorChapters": "Unknown",
+      "homeworld": "Unknown",
       "allegiance": "Imperium of Man"
     },
-    { 
-      "id": "26" ,
+    {
+      "id": "26",
       "originalName": "Angels Eradicant",
       "currentName": "Angels Eradicant",
-      "warcry": "Unknow",
-      "founding": "Unknow",
-      "succesorsOf": "Unknow",
-      "successorChapters": "Unknow",
-      "homeworld": "Unknow",
+      "warcry": "Unknown",
+      "founding": "Unknown",
+      "succesorsOf": "Unknown",
+      "successorChapters": "Unknown",
+      "homeworld": "Unknown",
       "allegiance": "Imperium of Man"
     },
-    { 
-      "id": "27" ,
+    {
+      "id": "27",
       "originalName": "Astral Fists",
       "currentName": "Astral Fists",
-      "warcry": "Unknow",
-      "founding": "Unknow",
-      "succesorsOf": "Unknow",
-      "successorChapters": "Unknow",
-      "homeworld": "Unknow",
+      "warcry": "Unknown",
+      "founding": "Unknown",
+      "succesorsOf": "Unknown",
+      "successorChapters": "Unknown",
+      "homeworld": "Unknown",
       "allegiance": "Imperium of Man"
     },
-    { 
-      "id": "28" ,
+    {
+      "id": "28",
       "originalName": "Marines Mordant",
       "currentName": "Marines Mordant",
-      "warcry": "Unknow",
-      "founding": "Unknow (35th Millennium)",
+      "warcry": "Unknown",
+      "founding": "Unknown (35th Millennium)",
       "succesorsOf": "Ultramarines",
-      "successorChapters": "Unknow",
+      "successorChapters": "Unknown",
       "homeworld": "Vitrea Mundi",
       "allegiance": "Imperium of Man"
     }
   ]
 }
-
